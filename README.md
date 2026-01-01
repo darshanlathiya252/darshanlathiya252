@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working AI/ML<br>👯 I’m looking to collaborate with people who love AI/ML<br>🤝 I’m looking for internship<br>🌱 I’m currently learning Gen AI , ML<br>💬 Ask me about the thing related to AI/ML domain and here to be the part of your project<br>⚡ i like to do the code and i am keep updating my self with new skill.
+🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate with people who love AI/ML<br>🤝 I’m looking for internship<br>🌱 I’m currently learning Gen AI , ML<br>💬 Ask me about the thing related to AI/ML domain and here to be the part of your project<br>⚡ i like to do the code and i am keep updating my self with new skill.
 
 
 ## 🌐 Socials:

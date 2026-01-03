@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate with people who love AI/ML<br>🤝 I’m looking for internship<br>🌱 I’m currently learning Gen AI , ML<br>💬 Ask me about the thing related to AI/ML domain and here to be the part of your project<br>⚡ i like to do the code and i am keep updating my self with new skill.
+🔭 I’m currently working project which are Based on AI/ML &Gen AI <br>👯 I’m looking to collaborate with people who build Model and woking with LLMs<br>🤝 I’m looking for internship in the field of AI/Ml <br>🌱 I’m currently learning Gen AI , ML<br>💬 Ask me about the things related to AI/ML domain and we may together build somthing OTB<br>⚡ i like to contribute my skill in startup and also like to work on innovative startup idea which can make impact on humans dairy life style and keep updating my self with new skill.
 
 
 ## 🌐 Socials:
